@@ -2,7 +2,7 @@
 This repository includes a quantitative risk analysis of the Global Payments, Inc. stock.
 
 # Goal
-The goal of this project is to assess the risk of investing in Global Payments, Inc. stock.
+The goal of this project is to assess the risk of investing in Global Payments, Inc. stock in the event of lingering effects from the coronavirus on the economy, a second wave of the coronavirus, or the Federal Reserve raising interest rates.
 
 # Required software and packages
 This analysis was created in python with pandas, numpy, and matplotlib in the Jupyter Notebook Integrated Development Environment.
