@@ -27,20 +27,26 @@ https://github.com/deshanahan/GPN_Stock_Risk_Analysis/blob/master/Monte_Carlo.ip
 https://github.com/deshanahan/GPN_Stock_Risk_Analysis/blob/master/GPN_Risk_Technical_Notebook.ipynb
 
 # References
-I referenced the following materials for strategies:
+I referenced the following resources to gather information and  for strategies:
 
-
+2021 Market Forecast
 https://gordcollins.com/stock-market/factors-forecasts/
 
+GPN beta
 https://finance.yahoo.com/quote/GPN?p=GPN
 
+GPN price history
 https://finance.yahoo.com/quote/GPN/history?p=GPN
 
+Monte Carlo method + Brownian Motion
 https://www.quantconnect.com/tutorials/introduction-to-options/stochastic-processes-and-monte-carlo-method
 
+Brownian Motion
 https://www.youtube.com/watch?v=KCdcRAcJBPg
 
+Brownian Motion
 https://www.youtube.com/watch?v=QIM12cvCu4c
 
+3-month U.S. Treasury Bill yield
 https://ycharts.com/indicators/3_month_t_bill#:~:text=3%20Month%20Treasury%20Bill%20Rate%20is%20at%200.11%25%2C%20compared%20to,long%20term%20average%20of%204.28%25.
 
