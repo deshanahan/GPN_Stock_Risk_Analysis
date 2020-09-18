@@ -1,4 +1,4 @@
-# GPN_Stock_Risk_Analysis
+# GPN Stock Risk Analysis
 This repository includes a quantitative risk analysis of the Global Payments, Inc. stock.
 
 # Required software and packages
