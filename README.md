@@ -1,6 +1,9 @@
 # GPN Stock Risk Analysis
 This repository includes a quantitative risk analysis of the Global Payments, Inc. stock.
 
+# Goal
+The goal of this project is to assess the 
+
 # Required software and packages
 This analysis was created in python with pandas, numpy, and matplotlib in the Jupyter Notebook Integrated Development Environment.
 
